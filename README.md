@@ -2,6 +2,8 @@
 
 Convert regular OCHL candles to Heikin Ashi type candles.
 
+<img width="752" alt="Screenshot 2021-07-15 at 18 41 49" src="https://user-images.githubusercontent.com/7526930/125825592-e354fa1a-5e1e-4489-ba9f-d1d3bfb0f3a5.png">
+
 ### Usage Example
 ```golang
 ha := NewHeikinAshi()
